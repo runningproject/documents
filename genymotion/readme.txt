@@ -1,6 +1,6 @@
 Genymotion google map howto
 
-Select a device which uses android version 4.4.2 and above, start the device using genymotion button.
+Select a device which uses android version 4.2.2 and above, start the device using genymotion button.
 
 enter 
 (AndroidSDKpath)\android-sdk\platform-tools
